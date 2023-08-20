@@ -1,2 +1,2 @@
 # Excel_project
-This project shows povot tables and Dashboard
+This project shows pivot tables and Dashboard
